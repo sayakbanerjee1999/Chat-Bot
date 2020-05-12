@@ -10,6 +10,9 @@ link - https://research.fb.com/downloads/babi/
 ### End-To-End Memory Networks by
 ### Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston & Rob Fergus
 
+link1 - http://arxiv.org/abs/1502.05698
+link2 - http://arxiv.org/abs/1503.08895
+
 
 ## ------------------------------------------------------------------
 
@@ -20,4 +23,5 @@ representation for the x and q. The continuous representation is then processed 
 output a(LSTM Layers are used). This allows backpropagation of the error signal through multiple memory accesses back
 to the input during training.
 
-#### The Research Paper must be read to get a understanding on how the Model Works 
+#### The Research Paper must be read to get a understanding on how the Model Works
+#### And why we are using this Set Up
