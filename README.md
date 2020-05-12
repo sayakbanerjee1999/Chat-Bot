@@ -11,6 +11,7 @@ link - https://research.fb.com/downloads/babi/
 ### Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston & Rob Fergus
 
 link1 - http://arxiv.org/abs/1502.05698
+
 link2 - http://arxiv.org/abs/1503.08895
 
 
